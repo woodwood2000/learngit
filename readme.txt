@@ -6,3 +6,4 @@ Creating a new branch is quick.
 It is stranger.
 Creating a new branch is quick and simple.
 new
+new2
